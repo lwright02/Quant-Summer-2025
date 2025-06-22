@@ -1,5 +1,5 @@
 ## Quantitative Portfolio Managment and Algorithmic Trading (Summer 2025)
-This repository contains our group howmework
+This repository contains our group homework
 
 ## Team Members
  - Liam Wright
@@ -9,6 +9,3 @@ This repository contains our group howmework
 
 ## Contents
 Homework 1 - The Harvard Management Company and Inflation-Indexed Bonds
-Homework 2 - 
-Homework 3 - 
-Homework 4 - 
