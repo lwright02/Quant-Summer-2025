@@ -5,10 +5,9 @@ This repository contains our group homework
  - Liam Wright
  - Ryan Ziaee
  - Jack Rosenthal
- - Reina Fang
 
 ## Contents
 Homework 1 - The Harvard Management Company and Inflation-Indexed Bonds
 *** Install numpy, matplotlib, openpyxl, pandas, ipykernel, seaborn before running HW1
 
-Homework 2 - 
+Homework 2 - ProShares Hedge Replication ETF
