@@ -2,10 +2,11 @@
 This repository contains our group homework
 
 ## Team Members
-**HW 1+2**
+**HW 1 & 2**
  - Liam Wright
  - Ryan Ziaee
  - Jack Rosenthal
+
 **HW 3**
    - Liam Wright
    - ??
